@@ -22,12 +22,14 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 navigation:
   - name: Home
     url: /
-  - name: Research
+  - name: About
     url: /about
-  - name: Publication
+  - name: Research
     url: /archive
-  - name: CV
+  - name: Publication
     url: /tags
+  - name: CV
+    url: /cv    
 
 # Pagination
 paginate: 8
